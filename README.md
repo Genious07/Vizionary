@@ -322,16 +322,4 @@ Thanks to the open-source ecosystem: PyTorch, Timm, Grad-CAM tooling, Hugging Fa
 
 ---
 
-## Contact & Next Steps
-
-If you want:
-
-* A **Colab notebook** prefilled to train-from-scratch or fine-tune (tell me which),
-* A **short / long model card** and README variants for the Hugging Face model page,
-* A **resume-ready project blurb** you can paste into LinkedIn/GitHub,
-
-Tell me which option you want and I’ll produce it next.
-
----
-
 *Made  by Satwik Singh(#7) — privacy-first, production-minded computer vision.*
